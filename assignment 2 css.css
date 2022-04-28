@@ -1,0 +1,72 @@
+.title {
+	font-family: quicksand;
+	font-weight: 100;
+	font-size: 53px;
+	color: #00473B;
+	position: absolute;
+	top: 80px;	
+	left: 200px;
+}
+body {
+	background-image:url("greenback.jpg");
+}
+
+@font-face {
+   font-family: quicksand;
+   src: url("Quicksand/OFL.txt");
+}
+
+.h1{ /*the days*/
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color: #003F37;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+.p1 { 
+	font-size: 17px;
+	font-weight: normal;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 400px;
+}
+
+.topCloud {
+	position: absolute;
+	top: -190px;
+	left: -30px;
+}
+.textFrame {
+	position: absolute;	
+	left: 200px;
+	top: 645px;
+
+}
+.sketch1 {
+	position: absolute;
+	left: 730px;
+	top: 998px;
+}
+
+.AssignmentDiscription{
+	position: absolute;
+	margin-top: 270px;
+	margin-left: 190px;
+	margin-right: 190px;
+	font-family:quicksand;
+	font-weight: 700px;
+	font-size: 18px;
+	color: #003F37;
+
+}
+
+.marginCenter {
+	margin:auto;
+}
+
+
+	
+}
